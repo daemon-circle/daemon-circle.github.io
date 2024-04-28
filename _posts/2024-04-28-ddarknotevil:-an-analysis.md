@@ -1,6 +1,6 @@
 ## ddarknotevil: an analysis
 
-**Targeted countries:** 43, globally | **Targeted industries:** Widely varied
+**Targeted countries:** 43, globally; **Targeted industries:** Widely varied
 
 ddarknotevil first emerged in August 2023 and is a frequent user of underground forums. The account has a high reputation for leaking database dumps but has more recently pivoted to selling remote access for profit. ddarknotevil appears to target networks with vulnerable web-applications and FTP servers to extract data.
 
@@ -15,13 +15,14 @@ ddarknotevil became active on closed access forums at the start of 2024. Publicl
 
 ddarknotevil has an estimated criminal net worth of 4,000 ~ 6,000 USD.
 
-![Post of St Jude Laboratories (Sample redacted)](/assets/2024-04-28-ddarknotevil:-an-analysis/st_jude_labs.png)
-*Post of St Jude Laboratories (With personal info redacted).*
-
+Some notable breaches are:
 - 60GB of patient data stolen from St Jude Laboratories sold for 3,500 USD (March 2024).
 - Web-shell access to Valenica University Polytechnic for 500 USD (February 2024).
 - Web-shell access to an unnamed Spanish 'Political Union' website for 300 USD (February 2024).
 - 136GB of data stolen from Indonesian Ministry of Economic Affairs, dumped for free (February 2024).
+
+![Post of St Jude Laboratories (Sample redacted)](/assets/2024-04-28-ddarknotevil:-an-analysis/st_jude_labs.png)
+*Post of St Jude Laboratories (With personal info redacted).*
 
 In March 2024 the user claimed to have stolen data from authentication service Okta however several sources have disputed that the data was edited from an unrelated IntelBroker breach. The original forum post has been deleted.
 
