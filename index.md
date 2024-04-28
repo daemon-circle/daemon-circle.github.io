@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is my personal TI blog where I'll go on tangents about dark webby/underground forum happenings and other general threat intel stuff.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+You can follow me on [Twitter](https://twitter.com/daemon_circle)
