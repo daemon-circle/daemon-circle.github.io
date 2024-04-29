@@ -1,6 +1,6 @@
 ## ddarknotevil: an analysis
 
-**Targeted countries:** 43, globally; **Targeted industries:** Widely varied; government, education, medical, etc
+**Targeted countries:** 43, globally. **Targeted industries:** Widely varied; government, education, medical, etc.
 
 ddarknotevil first emerged in August 2023 and is a frequent user of underground forums. The account has a high reputation for leaking database dumps but has more recently pivoted to selling remote access for profit. ddarknotevil appears to target networks with vulnerable web-applications and FTP servers to extract data.
 
